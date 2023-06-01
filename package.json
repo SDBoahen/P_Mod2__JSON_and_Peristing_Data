@@ -1,0 +1,24 @@
+{
+  "name": "module_2__json_and_persisting_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+
+    "create": "echo 'create new data, add to dataset' ",
+
+    "Sam": "echo 'Happy June! :)' "
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+
+}
